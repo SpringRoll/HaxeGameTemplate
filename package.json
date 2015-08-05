@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"version": "_version_",
+	"dependencies": {
+		"grunt": "~0.4.5",
+		"grunt-springroll": "*",
+		"grunt-haxe": "^0.1.13"
+	}
+}

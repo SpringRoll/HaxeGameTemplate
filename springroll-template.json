@@ -1,0 +1,7 @@
+{
+	"name": "Haxe Game",
+	"id": "io.springroll.haxe-game",
+	"version": "1.0.0",
+	"extend": "io.springroll.default",
+	"github": "SpringRoll/HaxeGameTemplate"
+}
